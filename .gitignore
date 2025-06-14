@@ -1,0 +1,58 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+UserSettings/
+
+# Auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crash reports
+sysinfo.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# Build results
+*.apk
+*.aab
+*.exe
+*.dll
+*.app
+*.ipa
+
+# Logs
+*.log
+
+# Rider
+*.sln.iml
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Visual Studio Code working directory
+.vscode/
+
+# Ignore personal settings
+*.psd
+*.blend1
+*.blend2
+*.orig
